@@ -1,1 +1,1 @@
-This is my first file.
+This is the first file that was added to the learn Git project.
