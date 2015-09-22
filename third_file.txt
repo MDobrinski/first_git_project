@@ -1,2 +1,3 @@
 This is the third file in the learning Git study.
-We are really learning to use Git now.
+We are really learning to use Git now, yea!
+This line is added to see how the diff command works on multiple files.
