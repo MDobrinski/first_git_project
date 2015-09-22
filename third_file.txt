@@ -1,1 +1,2 @@
 This is the third file in the learning Git study.
+We are really learning to use Git now.
